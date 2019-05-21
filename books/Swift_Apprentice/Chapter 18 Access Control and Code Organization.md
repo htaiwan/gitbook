@@ -269,7 +269,7 @@ class SavingsAccount: BasicAccount {
 - public and open allow code to be accessed from another module. The open modifier additionally allows entities to be overridden by other modules.
 - When access modifiers are applied to extensions, all members of the extension receive that access level.
 - Extensions that mark protocol conformance cannot have access modifiers.
-- he keyword available can be used to evolve a library by deprecating APIs.
+- The keyword available can be used to evolve a library by deprecating APIs.
 
 
 
