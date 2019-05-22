@@ -64,7 +64,7 @@
    
       * [Chapter 18: Access Control and Code Organization](Swift_Apprentice/Chapter 18 Access Control and Code Organization.md)
       * [Chapter 19: Custom Operators, Subscripts, Keypaths](Swift_Apprentice/Chapter 19 Custom Operators, Subscripts, Keypaths.md)
-      * Chapter 20: Pattern Matching
+      * [Chapter 20: Pattern Matching](Swift_Apprentice/Chapter 20 Pattern Matching.md)
       * Chapter 21: Error Handling
       * Chapter 22: Encoding and Decoding Types
       * Chapter 23: Async Closures and Memory Management
