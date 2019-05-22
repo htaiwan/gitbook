@@ -63,7 +63,7 @@
    * Section IV: Advanced Topics
    
       * [Chapter 18: Access Control and Code Organization](Swift_Apprentice/Chapter 18 Access Control and Code Organization.md)
-      * Chapter 19: Custom Operators, Subscripts, Keypaths
+      * [Chapter 19: Custom Operators, Subscripts, Keypaths](Swift_Apprentice/Chapter 19 Custom Operators, Subscripts, Keypaths.md)
       * Chapter 20: Pattern Matching
       * Chapter 21: Error Handling
       * Chapter 22: Encoding and Decoding Types
