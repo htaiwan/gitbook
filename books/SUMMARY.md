@@ -1,10 +1,10 @@
 # Summary
 
 * Design_Patterns筆記
-   
+  
    * Section I: Hello, Design Patterns!
       * [Chapter 1: What are Design Patterns?](Design_Patterns/Chapter 1 What are Design Patterns.md)
-      * Chapter 2: How to Read a Class Diagram
+      * [Chapter 2: How to Read a Class Diagram](Design_Patterns/Chapter 2 How to Read a Class Diagram.md)
    * Section II: Fundamental Design Patterns
       * Chapter 3: Model-View-Controller Pattern
       * Chapter 4: Delegation Pattern
@@ -14,7 +14,7 @@
       * Chapter 8: Observer Pattern
       * Chapter 9: Builder Pattern
    * Section III: Intermediate Design Patterns
-      
+     
       - Chapter 10: Model-View-ViewModel Pattern
       - Chapter 11: Factory Pattern
       - Chapter 12: Adapter Pattern
@@ -32,7 +32,7 @@
       * Chapter 23: Coordinator Pattern
    
 * Swift_Apprentice筆記
-   
+  
    * Section I: Swift Basics
    
       * Chapter 1: Expressions, Variables & Constants

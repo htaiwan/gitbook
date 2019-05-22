@@ -43,7 +43,7 @@ design pattern就是在軟體世界中，幫我們解決在某些特殊情境下
 >   - Describes how objects communicate with each other. Examples of behavioral design patterns are **<u>Delegation, Strategy and Observer</u>**.
 > - **<u>Creational design pattern</u>**
 >   -  Describes how to create or instantiate objects. Examples of creational patterns are **<u>Builder, Singleton and Prototype</u>**.
->     
+>    
 
 ------
 
@@ -53,13 +53,11 @@ design pattern就是在軟體世界中，幫我們解決在某些特殊情境下
 - “Many design patterns are made redundant by modern programming languages.”
 - “Design patterns are a lazy substitute for learning object-oriented principles.”
 
-
 ------
 
 <h2 id="5">Benefits of design patterns</h2>
 
 - “Knowing design patterns allow you to spot similarities between code.”
-
 
 ------
 
