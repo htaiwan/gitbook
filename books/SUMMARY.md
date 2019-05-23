@@ -47,8 +47,7 @@
       * Chapter 7: Arrays, Dictionaries, and Sets
       * Chapter 8: Collection Iterations With Closures 
       * Chapter 9: Strings
-      * Excerpt From: By Ray Fix. “Swift Apprentice.” Apple Books. 
-   
+      
    * Section III: Building Your Own Types
    
       * Chapter 10: Structures
@@ -66,7 +65,7 @@
       * [Chapter 19: Custom Operators, Subscripts, Keypaths](Swift_Apprentice/Chapter 19 Custom Operators, Subscripts, Keypaths.md)
       * [Chapter 20: Pattern Matching](Swift_Apprentice/Chapter 20 Pattern Matching.md)
       * [Chapter 21: Error Handling](Swift_Apprentice/Chapter 21 Error Handling.md)
-      * Chapter 22: Encoding and Decoding Types
+      * [Chapter 22: Encoding and Decoding Types](Swift_Apprentice/Chapter 22 Encoding and Decoding Types.md)
       * Chapter 23: Async Closures and Memory Management
       * Chapter 24: Value Types and Reference Type
       * Chapter 25: Protocol-Oriented Programming
