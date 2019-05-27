@@ -51,7 +51,7 @@
    * Section III: Building Your Own Types
    
       * [Chapter 10: Structures](Swift_Apprentice/Chapter 10 Structures.md)
-      * Chapter 11: Properties
+      * [Chapter 11: Properties](Swift_Apprentice/Chapter 11 Properties.md)
       * Chapter 12: Methods
       * Chapter 13: Classes
       * Chapter 14: Advanced Classes
