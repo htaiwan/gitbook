@@ -68,7 +68,6 @@
       * [Chapter 22: Encoding and Decoding Types](Swift_Apprentice/Chapter 22 Encoding and Decoding Types.md)
       * [Chapter 23: Async Closures and Memory Management](Swift_Apprentice/Chapter 23 Async Closures and Memory Management.md)
       * [Chapter 24: Value Types and Reference Type](Swift_Apprentice/Chapter 24 Value Types and Reference Type.md)
-      * Chapter 25: Protocol-Oriented Programming
+      * [Chapter 25: Protocol-Oriented Programming](Swift_Apprentice/Chapter 25 Protocol-Oriented Programming.md)
    
-      
 

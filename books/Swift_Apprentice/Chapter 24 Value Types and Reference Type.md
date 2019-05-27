@@ -127,7 +127,6 @@ exposeValue(x) // => 觀察原本的x是否有改變
 
 - Primitive value types like Int support value semantics automatically. This is because assign-by-copy ensures each variable holds its own instance
 
-
 ------
 
 <h2 id="6">Case 2: Composite value types</h2>
@@ -135,7 +134,6 @@ exposeValue(x) // => 觀察原本的x是否有改變
 - Composite value types, for example struct or enum
 - a simple rule: **<u>A struct supports value semantics if all its stored properties support value semantics.</u>**
 - If the type is an enumeration, it’s analogous: the instance copy is defined to have the same enumeration member, and it is as if that member’s associated values are directly assigned from the associated values of the existing instance.
-
 
 ------
 
@@ -147,7 +145,6 @@ exposeValue(x) // => 觀察原本的x是否有改變
   - UIImage, along with many of the Cocoa types, **<u>are defined as immutable</u>** for this reason, **<u>because an immutable reference type has value semantics</u>**.
 
   - The UIImage type has dozens of properties (scale, capInsets, renderingMode, etc.), but since they are all read-only you can’t modify an instance. 
-
 
 
 
