@@ -50,7 +50,7 @@
       
    * Section III: Building Your Own Types
    
-      * Chapter 10: Structures
+      * [Chapter 10: Structures](Swift_Apprentice/Chapter 10 Structures.md)
       * Chapter 11: Properties
       * Chapter 12: Methods
       * Chapter 13: Classes
@@ -70,4 +70,3 @@
       * [Chapter 24: Value Types and Reference Type](Swift_Apprentice/Chapter 24 Value Types and Reference Type.md)
       * [Chapter 25: Protocol-Oriented Programming](Swift_Apprentice/Chapter 25 Protocol-Oriented Programming.md)
    
-
