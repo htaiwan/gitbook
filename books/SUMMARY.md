@@ -54,7 +54,7 @@
       * [Chapter 11: Properties](Swift_Apprentice/Chapter 11 Properties.md)
       * [Chapter 12: Methods](Swift_Apprentice/Chapter 12 Methods.md)
       * [Chapter 13: Classes](Swift_Apprentice/Chapter 13 Classes.md)
-      * Chapter 14: Advanced Classes
+      * [Chapter 14: Advanced Classes](Swift_Apprentice/Chapter 14 Advanced Classes.md)
       * Chapter 15: Enumerations
       * Chapter 16: Protocols
       * Chapter 17: Generics
