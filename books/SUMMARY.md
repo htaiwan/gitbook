@@ -57,7 +57,7 @@
       * [Chapter 14: Advanced Classes](Swift_Apprentice/Chapter 14 Advanced Classes.md)
       * [Chapter 15: Enumerations](Swift_Apprentice/Chapter 15 Enumerations.md)
       * [Chapter 16: Protocols](Swift_Apprentice/Chapter 16 Protocols.md)
-      * Chapter 17: Generics
+      * [Chapter 17: Generics](Swift_Apprentice/Chapter 17 Generics.md)
    
    * Section IV: Advanced Topics
    
