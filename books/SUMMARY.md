@@ -46,7 +46,7 @@
    
       * [Chapter 7: Arrays, Dictionaries, and Sets](Swift_Apprentice/Chapter 7 Arrays, Dictionaries, and Sets.md)
       * [Chapter 8: Collection Iterations With Closures](Swift_Apprentice/Chapter 8 Collection Iterations With Closures.md)
-      * Chapter 9: Strings
+      * [Chapter 9: Strings](Swift_Apprentice/Chapter 9 Strings.md)
       
    * Section III: Building Your Own Types
    
