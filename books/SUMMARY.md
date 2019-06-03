@@ -37,7 +37,7 @@
    
       * Chapter 1: Expressions, Variables & Constants
       * Chapter 2: Types & Operations
-      * Chapter 3: Basic Control Flow
+      * [Chapter 3: Basic Control Flow](Swift_Apprentice/Chapter 3 Basic Control Flow.md)
       * [Chapter 4: Advanced Flow Control](Swift_Apprentice/Chapter 4 Advanced Flow Control.md)
       * [Chapter 5: Functions](Swift_Apprentice/Chapter 5 Functions.md)
       * [Chapter 6: Optionals](Swift_Apprentice/Chapter 6 Optionals.md)
