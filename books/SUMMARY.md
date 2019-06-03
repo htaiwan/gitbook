@@ -39,8 +39,8 @@
       * Chapter 2: Types & Operations
       * Chapter 3: Basic Control Flow
       * Chapter 4: Advanced Flow Control
-      * Chapter 5: Functions
-      * [Chapter 6: Optionals](Swift_Apprentic/Chapter 6 Optionals.md)
+      * [Chapter 5: Functions](Swift_Apprentice/Chapter 5 Functions.md)
+      * [Chapter 6: Optionals](Swift_Apprentice/Chapter 6 Optionals.md)
    
    * Section II: Collection Types
    
