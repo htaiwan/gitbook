@@ -35,7 +35,7 @@
   
    * Section I: Swift Basics
    
-      * Chapter 1: Expressions, Variables & Constants
+      * [Chapter 1: Expressions, Variables & Constants](Swift_Apprentice/Chapter 1 Expressions, Variables & Constants.md)
       * [Chapter 2: Types & Operations](Swift_Apprentice/Chapter 2 Types & Operations.md)
       * [Chapter 3: Basic Control Flow](Swift_Apprentice/Chapter 3 Basic Control Flow.md)
       * [Chapter 4: Advanced Flow Control](Swift_Apprentice/Chapter 4 Advanced Flow Control.md)
