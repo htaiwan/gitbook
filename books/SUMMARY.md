@@ -24,7 +24,7 @@
       - Chapter 16: Multicast Delegate Pattern
       - Chapter 17: Facade Pattern
    * Section IV: Advanced Design Patterns
-      * Chapter 18: Flyweight Pattern
+      * [Chapter 18: Flyweight Pattern](Design_Patterns/Chapter 18 Flyweight Pattern.md)
       * Chapter 19: Mediator Pattern
       * Chapter 20: Composite Pattern
       * Chapter 21: Command Pattern
