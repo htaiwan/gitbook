@@ -27,7 +27,7 @@
       * [Chapter 18: Flyweight Pattern](Design_Patterns/Chapter 18 Flyweight Pattern.md)
       * [Chapter 19: Mediator Pattern](Design_Patterns/Chapter 19 Mediator Pattern.md)
       * [Chapter 20: Composite Pattern](Design_Patterns/Chapter 20 Composite Pattern.md)
-      * Chapter 21: Command Pattern
+      * [Chapter 21: Command Pattern](Design_Patterns/Chapter 21 Command Pattern.md)
       * Chapter 22: Chain of Responsibility
       * Chapter 23: Coordinator Pattern
    
