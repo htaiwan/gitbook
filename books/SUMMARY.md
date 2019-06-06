@@ -1,5 +1,34 @@
 # Summary
 
+- WWDC2019筆記
+
+  - Swift
+
+    - ###### What's New in Swift
+
+    - Modern Swift API Design
+
+    - Swift Playgrounds 3
+
+  - Xcode
+  
+    - What's New in Xcode 11
+    - Getting Started with Xcode
+  
+  - ML
+  
+    - What's New in Machine Learning
+    - Core ML 3 Framework
+    - Introducing the Create ML App
+    - Create ML for Activity, Text, and Recommendations
+  
+  - AR
+  
+    - Introducing ARKit 3
+    - Introducing RealityKit and Reality Composer
+    - Building Apps with RealityKit
+    - Creating Great Apps Using Core ML and ARKit
+
 * Design_Patterns筆記
   
    * Section I: Hello, Design Patterns!
@@ -28,7 +57,7 @@
       * [Chapter 19: Mediator Pattern](Design_Patterns/Chapter 19 Mediator Pattern.md)
       * [Chapter 20: Composite Pattern](Design_Patterns/Chapter 20 Composite Pattern.md)
       * [Chapter 21: Command Pattern](Design_Patterns/Chapter 21 Command Pattern.md)
-      * Chapter 22: Chain of Responsibility
+      * [Chapter 22: Chain of Responsibility](Design_Patterns/Chapter 22 Chain of Responsibility.md)
       * Chapter 23: Coordinator Pattern
    
 * Swift_Apprentice筆記
