@@ -44,7 +44,7 @@
       * Chapter 9: Builder Pattern
    * Section III: Intermediate Design Patterns
      
-      - Chapter 10: Model-View-ViewModel Pattern
+      - [Chapter 10: Model-View-ViewModel Pattern](Design_Patterns/Chapter 10 Model-View-ViewModel Pattern.md)
       - Chapter 11: Factory Pattern
       - Chapter 12: Adapter Pattern
       - Chapter 13: Iterator Pattern
