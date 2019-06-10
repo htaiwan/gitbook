@@ -58,7 +58,7 @@
       * [Chapter 20: Composite Pattern](Design_Patterns/Chapter 20 Composite Pattern.md)
       * [Chapter 21: Command Pattern](Design_Patterns/Chapter 21 Command Pattern.md)
       * [Chapter 22: Chain of Responsibility](Design_Patterns/Chapter 22 Chain of Responsibility.md)
-      * Chapter 23: Coordinator Pattern
+      * [Chapter 23: Coordinator Pattern](Design_Patterns/Chapter 23 Coordinator Pattern.md)
    
 * Swift_Apprentice筆記
   
