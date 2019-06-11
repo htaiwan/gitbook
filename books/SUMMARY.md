@@ -47,7 +47,7 @@
       - [Chapter 10: Model-View-ViewModel Pattern](Design_Patterns/Chapter 10 Model-View-ViewModel Pattern.md)
       - [Chapter 11: Factory Pattern](Design_Patterns/Chapter 11 Factory Pattern.md)
       - [Chapter 12: Adapter Pattern](Design_Patterns/Chapter 12 Adapter Pattern.md)
-      - Chapter 13: Iterator Pattern
+      - [Chapter 13: Iterator Pattern](Design_Patterns/Chapter 13 Iterator Pattern.md)
       - Chapter 14: Prototype Pattern
       - Chapter 15: State Pattern
       - Chapter 16: Multicast Delegate Pattern
