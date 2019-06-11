@@ -28,7 +28,6 @@
   - Use this pattern when you need to transform models into another representation for a view. 
   - MVVM is a great way to slim down massive view controllers that require several model-to-view transformations
 
-
 ------
 
 <h2 id="2">Playground example</h2>

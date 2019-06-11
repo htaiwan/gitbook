@@ -45,7 +45,7 @@
    * Section III: Intermediate Design Patterns
      
       - [Chapter 10: Model-View-ViewModel Pattern](Design_Patterns/Chapter 10 Model-View-ViewModel Pattern.md)
-      - Chapter 11: Factory Pattern
+      - [Chapter 11: Factory Pattern](Design_Patterns/Chapter 11 Factory Pattern.md)
       - Chapter 12: Adapter Pattern
       - Chapter 13: Iterator Pattern
       - Chapter 14: Prototype Pattern
