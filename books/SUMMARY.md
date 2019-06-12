@@ -50,7 +50,7 @@
       - [Chapter 13: Iterator Pattern](Design_Patterns/Chapter 13 Iterator Pattern.md)
       - [Chapter 14: Prototype Pattern](Design_Patterns/Chapter 14 Prototype Pattern.md)
       - [Chapter 15: State Pattern](Design_Patterns/Chapter 15 State Pattern.md)
-      - Chapter 16: Multicast Delegate Pattern
+      - [Chapter 16: Multicast Delegate Pattern](Design_Patterns/Chapter 16 Multicast Delegate Pattern.md)
       - Chapter 17: Facade Pattern
    * Section IV: Advanced Design Patterns
       * [Chapter 18: Flyweight Pattern](Design_Patterns/Chapter 18 Flyweight Pattern.md)
