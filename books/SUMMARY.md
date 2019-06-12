@@ -17,8 +17,8 @@
   
   - ML
   
-    - What's New in Machine Learning
-    - Core ML 3 Framework
+    - [What's New in Machine Learning](WWDC2019/What's New in Machine Learning.md)
+    - [Core ML 3 Framework](WWDC2019/Core ML 3 Framework.md)
     - Introducing the Create ML App
     - Create ML for Activity, Text, and Recommendations
   
@@ -49,7 +49,7 @@
       - [Chapter 12: Adapter Pattern](Design_Patterns/Chapter 12 Adapter Pattern.md)
       - [Chapter 13: Iterator Pattern](Design_Patterns/Chapter 13 Iterator Pattern.md)
       - [Chapter 14: Prototype Pattern](Design_Patterns/Chapter 14 Prototype Pattern.md)
-      - Chapter 15: State Pattern
+      - [Chapter 15: State Pattern](Design_Patterns/Chapter 15 State Pattern.md)
       - Chapter 16: Multicast Delegate Pattern
       - Chapter 17: Facade Pattern
    * Section IV: Advanced Design Patterns
