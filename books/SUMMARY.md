@@ -48,7 +48,7 @@
       - [Chapter 11: Factory Pattern](Design_Patterns/Chapter 11 Factory Pattern.md)
       - [Chapter 12: Adapter Pattern](Design_Patterns/Chapter 12 Adapter Pattern.md)
       - [Chapter 13: Iterator Pattern](Design_Patterns/Chapter 13 Iterator Pattern.md)
-      - Chapter 14: Prototype Pattern
+      - [Chapter 14: Prototype Pattern](Design_Patterns/Chapter 14 Prototype Pattern.md)
       - Chapter 15: State Pattern
       - Chapter 16: Multicast Delegate Pattern
       - Chapter 17: Facade Pattern
