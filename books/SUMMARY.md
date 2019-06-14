@@ -35,7 +35,7 @@
       * [Chapter 1: What are Design Patterns?](Design_Patterns/Chapter 1 What are Design Patterns.md)
       * [Chapter 2: How to Read a Class Diagram](Design_Patterns/Chapter 2 How to Read a Class Diagram.md)
    * Section II: Fundamental Design Patterns
-      * Chapter 3: Model-View-Controller Pattern
+      * [Chapter 3: Model-View-Controller Pattern](Design_Patterns/Chapter 3 Model-View-Controller Pattern.md)
       * [Chapter 4: Delegation Pattern](Design_Patterns/Chapter 4 Delegation Pattern.md)
       * [Chapter 5: Strategy Pattern](Design_Patterns/Chapter 5 Strategy Pattern.md)
       * [Chapter 6: Singleton Pattern](Design_Patterns/Chapter 6 Singleton Pattern.md)
