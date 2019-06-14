@@ -40,7 +40,7 @@
       * Chapter 5: Strategy Pattern
       * Chapter 6: Singleton Pattern
       * Chapter 7: Memento Pattern
-      * Chapter 8: Observer Pattern
+      * [Chapter 8: Observer Pattern](Design_Patterns/Chapter 8 Observer Pattern.md)
       * [Chapter 9: Builder Pattern](Design_Patterns/Chapter 9 Builder Pattern.md)
    * Section III: Intermediate Design Patterns
      
