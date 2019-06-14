@@ -37,7 +37,7 @@
    * Section II: Fundamental Design Patterns
       * Chapter 3: Model-View-Controller Pattern
       * Chapter 4: Delegation Pattern
-      * Chapter 5: Strategy Pattern
+      * [Chapter 5: Strategy Pattern](Design_Patterns/Chapter 5 Strategy Pattern.md)
       * [Chapter 6: Singleton Pattern](Design_Patterns/Chapter 6 Singleton Pattern.md)
       * [Chapter 7: Memento Pattern](Design_Patterns/Chapter 7 Memento Pattern.md)
       * [Chapter 8: Observer Pattern](Design_Patterns/Chapter 8 Observer Pattern.md)
