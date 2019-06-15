@@ -2,7 +2,7 @@
 
 - Machine_Learning_iOS筆記
   - Section I: Machine Learning with Images
-    - Chapter 1:  Machine Learning, iOS & You
+    - [Chapter 1:  Machine Learning, iOS & You](Machine_Learning_iOS/Chapter 1  Machine Learning, iOS & You.md)
     - Chapter 2: Getting Started with Image Classification
     - Chapter 3: Training the Image Classifier
     - Chapter 4: Getting Started with Python & Turi Create
