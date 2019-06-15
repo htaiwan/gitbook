@@ -1,33 +1,25 @@
 # Summary
 
-- WWDC2019筆記
-
-  - Swift
-
-    - ###### What's New in Swift
-
-    - Modern Swift API Design
-
-    - Swift Playgrounds 3
-
-  - Xcode
-  
-    - What's New in Xcode 11
-    - Getting Started with Xcode
-  
-  - ML
-  
-    - [What's New in Machine Learning](WWDC2019/What's New in Machine Learning.md)
-    - [Core ML 3 Framework](WWDC2019/Core ML 3 Framework.md)
-    - Introducing the Create ML App
-    - Create ML for Activity, Text, and Recommendations
-  
-  - AR
-  
-    - Introducing ARKit 3
-    - Introducing RealityKit and Reality Composer
-    - Building Apps with RealityKit
-    - Creating Great Apps Using Core ML and ARKit
+- Machine_Learning_iOS筆記
+  - Section I: Machine Learning with Images
+    - Chapter 1:  Machine Learning, iOS & You
+    - Chapter 2: Getting Started with Image Classification
+    - Chapter 3: Training the Image Classifier
+    - Chapter 4: Getting Started with Python & Turi Create
+    - Chapter 5: Digging Deeper Into Turi Create
+    - Chapter 6: Taking Control of Training with Keras
+    - Chapter 7: Going Convolutional
+    - Chapter 8: Advanced Convolutional Neural Networks
+    - Chapter 9: Beyond Classification
+    - Chapter 10: YOLO & Semantic Segmentation
+  - Section II: Machine Learning with Sequences
+    - Chapter 11: Data Collection for Sequence Classification
+    - Chapter 12: Training a Model for Sequence Classification
+    - Chapter 13: Sequence Classification
+  - Section III: Natural Language Processing
+    - Chapter 14: Natural Language Classification
+    - Chapter 15: Natural Language Transformation, Part 1
+    - Chapter 16: Natural Language Transformation, Part 2
 
 * Design_Patterns筆記
   
