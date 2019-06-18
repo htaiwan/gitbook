@@ -9,9 +9,8 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 ## 大綱
 
 - [What is machine learning?](#1)
-
-  - [Learning without explicit programming](#2)
-
+- [Learning without explicit programming](#2)
+  
 - [Deep learning](#3)
 
   - [Artificial intelligence](#4)
@@ -58,7 +57,6 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 - ML的定義
   - In 1959, Arthur Samuel defined machine learning as the field of study that **gives computers the ability to learn without being explicitly programmed.**
 
-
 ------
 
 <h2 id="2">Learning without explicit programming</h2>
@@ -74,7 +72,6 @@ In this introduction chapter, you’ll learn what machine learning is all about.
   - Neural networks are made up of layers of nodes (neurons) in an attempt to mimic how the human brain works
 - 深度學習 deep learning
   - uses neural networks with a high number of layers, and a high number of neurons at each layer as its learning algorithm.
-
 
 ------
 
@@ -122,7 +119,6 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 - First, you need to collect training data, which consists of examples and labels
 - The labels are what you want the model to learn from the examples
 
-
 ------
 
 <h2 id="9">It’s all about the features</h2>
@@ -141,14 +137,12 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 - Using some fancy mathematics called **back-propagation**, the training process uses this loss value to slightly tweak the parameters of the model so that it will make better predictions next time.
 - Usually people keep training until the model reaches either some **minimum acceptable accuracy**, **up to a maximum number of iterations**, or until they run out of patience.
 
-
 ------
 
 <h2 id="11">What does the model actually learn?</h2>
 
 - Most other machine-learning algorithms **don’t learn rules directly**, but a set of numbers called the learned **parameters**, or just “parameters”, of the mode.
 - one of the major challenges of machine learning is **overfitting**, which happens when the model does start to remember specific training examples.
-
 
 ------
 
@@ -260,7 +254,6 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 - if you can’t create an accurate model with Create ML or Turi Create, you have to build your own model from scratch.
 - Learn about all these new terms and how to use **Keras** to configure and train your own deep-learning networks.
 
-
 ------
 
 <h2 id="22">Gettin’ jiggy with the algorithms</h2>
@@ -286,13 +279,11 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 
 - Machine learning, especially deep learning, has been very successful in problem domains such as image classification and speech recognition, but it can’t solve everything. 
 
-
 ------
 
 <h2 id="25">The ethics of machine learning</h2>
 
 - Machine learning is a powerful tool, extending the reach of artificial intelligence into everyday life. Using trained models can be fun, time-saving or profitable, but the misuse of AI can be harmful.
-
 
 ------
 
@@ -300,13 +291,11 @@ In this introduction chapter, you’ll learn what machine learning is all about.
 
 - If the training data was biased for or against some group of people: The data might be racist or sexist.
 
-
 ------
 
 <h2 id="27">Explainable/interpretable/transparent AI</h2>
 
 - Many deep learning models are so complex, even their creators can’t explain individual predictions.
-
 
 ------
 
