@@ -4,7 +4,7 @@
   - Section I: Machine Learning with Images
     - [Chapter 1:  Machine Learning, iOS & You](Machine_Learning_iOS/Chapter 1  Machine Learning, iOS & You.md)
     - [Chapter 2: Getting Started with Image Classification](Machine_Learning_iOS/Chapter 2 Getting Started with Image Classification.md)
-    - Chapter 3: Training the Image Classifier
+    - [Chapter 3: Training the Image Classifier](Machine_Learning_iOS/Chapter 3 Training the Image Classifier.md)
     - Chapter 4: Getting Started with Python & Turi Create
     - Chapter 5: Digging Deeper Into Turi Create
     - Chapter 6: Taking Control of Training with Keras
