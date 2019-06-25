@@ -7,7 +7,7 @@
     - [Chapter 3: Training the Image Classifier](Machine_Learning_iOS/Chapter 3 Training the Image Classifier.md)
     - [Chapter 4: Getting Started with Python & Turi Create](Machine_Learning_iOS/Chapter 4 Getting Started with Python & Turi Create.md)
     - [Chapter 5: Digging Deeper Into Turi Create](Machine_Learning_iOS/Chapter 5 Digging Deeper Into Turi Create.md)
-    - Chapter 6: Taking Control of Training with Keras
+    - [Chapter 6: Taking Control of Training with Keras](Machine_Learning_iOS/Chapter 6 Taking Control of Training with Keras.md)
     - Chapter 7: Going Convolutional
     - Chapter 8: Advanced Convolutional Neural Networks
     - Chapter 9: Beyond Classification
