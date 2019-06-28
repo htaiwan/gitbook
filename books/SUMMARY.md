@@ -9,7 +9,7 @@
     - [Chapter 5: Digging Deeper Into Turi Create](Machine_Learning_iOS/Chapter 5 Digging Deeper Into Turi Create.md)
     - [Chapter 6: Taking Control of Training with Keras](Machine_Learning_iOS/Chapter 6 Taking Control of Training with Keras.md)
     - [Chapter 7: Going Convolutional](Machine_Learning_iOS/Chapter 7 Going Convolutional.md)
-    - Chapter 8: Advanced Convolutional Neural Networks
+    - [Chapter 8: Advanced Convolutional Neural Networks](Machine_Learning_iOS//Chapter 8 Advanced Convolutional Neural Networks.md)
     - Chapter 9: Beyond Classification
     - Chapter 10: YOLO & Semantic Segmentation
   - Section II: Machine Learning with Sequences
