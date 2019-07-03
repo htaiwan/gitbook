@@ -1,5 +1,12 @@
 # Summary
 
+- Beginning ARKit
+  - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
+  - Happy AR Painter
+  - Raykea
+  - BaedekAR
+  - Into the Third Dimension
+
 - Machine_Learning_iOS筆記
   - Section I: Machine Learning with Images
     - [Chapter 1:  Machine Learning, iOS & You](Machine_Learning_iOS/Chapter 1  Machine Learning, iOS & You.md)
@@ -11,7 +18,7 @@
     - [Chapter 7: Going Convolutional](Machine_Learning_iOS/Chapter 7 Going Convolutional.md)
     - [Chapter 8: Advanced Convolutional Neural Networks](Machine_Learning_iOS/Chapter 8 Advanced Convolutional Neural Networks.md)
     - [Chapter 9: Beyond Classification](Machine_Learning_iOS/Chapter 9 Beyond Classification.md)
-    - Chapter 10: YOLO & Semantic Segmentation
+    - [Chapter 10: YOLO & Semantic Segmentation](Machine_Learning_iOS/Chapter 10 YOLO & Semantic Segmentation.md)
   - Section II: Machine Learning with Sequences
     - Chapter 11: Data Collection for Sequence Classification
     - Chapter 12: Training a Model for Sequence Classification
