@@ -2,7 +2,7 @@
 
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
-  - Happy AR Painter
+  - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
   - Raykea
   - BaedekAR
   - Into the Third Dimension
