@@ -4,7 +4,7 @@
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
   - [Raykea](Beginning ARKit/Raykea.md)
-  - BaedekAR
+  - [BaedekAR](Beginning ARKit/BaedekAR.md)
   - Into the Third Dimension
 
 - Machine_Learning_iOS筆記
