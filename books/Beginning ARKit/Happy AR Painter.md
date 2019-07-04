@@ -16,11 +16,13 @@
 
 <h2 id="1">Introduction</h2>
 
-
+- Let's review what you'll be learning in this part of the course, and review the history of its inspiration, the legendary Bob Ross.
 
 ------
 
 <h2 id="2">pointOfView and Matrix Math</h2>
+
+- So far, you’ve been writing apps that simply draw images over the real world. It’s now time to write apps that respond the to real world. Your first step: finding out where in the real world the device is, and which way its camera is facing.
 
 ![](../.gitbook/assets/103.png)
 
@@ -73,11 +75,13 @@
 
 <h2 id="4">The Other Tab</h2>
 
-
+- What’s with the other tab in this app? You’ll find out here.
 
 ------
 
 <h2 id="5">Painting Animated Shapes With Actions</h2>
+
+- Now that you can determine the device’s position and orientation in the real world, you can use that information to leave a trail of virtual objects, effectively “painting” in 3D space.
 
 - 加到print下方
 
@@ -139,9 +143,10 @@
 
 <h2 id="6">Painting Animated Shapes With Actions</h2>
 
-
+- Your “paint” trails are SceneKit objects, and SceneKit objects can have SceneKit actions applied to them. Let’s liven them up by animating them.
 
 ------
 
 <h2 id="7">Conclusion</h2>
 
+- You’ve just written a 3D painting app! Let's review where you are and see what comes next.

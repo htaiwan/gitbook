@@ -54,11 +54,13 @@
 
 <h2 id="4">Template App</h2>
 
-
+- It’s time to dive right into ARKit programming by starting with the ARKit app template that Xcode provides.
 
 ------
 
 <h2 id="5">Intro to SceneKit</h2>
+
+- A look at SceneKit and some key concepts, including 3D coordinates, aligning those coordinates with the real world, SceneKit geometries, and SceneKit’s node graph.
 
 ![](../.gitbook/assets/86.png)
 
@@ -107,7 +109,7 @@
 
 <h2 id="7">Shiny Objects</h2>
 
-
+- You just drew a dull object. Now you’ll make it shiny, and learn about diffuse and specular reflection while doing so.
 
 ![](../.gitbook/assets/90.png)
 
@@ -136,6 +138,8 @@
 
 <h2 id="8">Challenge: Draw a Shiny Green Pyramid</h2>
 
+- You know how to draw a sphere, and make it shiny and blue. Can you draw a shiny green pyramid?
+
 ![](../.gitbook/assets/94.png)
 
 ```swift
@@ -154,6 +158,8 @@
 
 <h2 id="9">Earth</h2>
 
+- Let's turn that shiny blue sphere into our home planet by covering it with a photo of the Earth’s surface.
+
 - 將中心的藍色圓球換成地球的圖片
 
 ```swift
@@ -168,6 +174,8 @@ func drawSphereAtOrigin() {
 ------
 
 <h2 id="10">Challenge: Cat On a Plane</h2>
+
+- Take what you’ve learned from the previous lesson and draw a flat surface with a cat picture on it.
 
 ![](../.gitbook/assets/95.png)
 
@@ -189,6 +197,8 @@ func drawSphereAtOrigin() {
 ------
 
 <h2 id="11">Euler Angles</h2>
+
+- They’re pronounced “oiler”, not “yoo-ler”, and they’re how you can tilt objects at jaunty angles.
 
 ![](../.gitbook/assets/96.png)
 
@@ -224,6 +234,8 @@ extension Int {
 
 <h2 id="12">Challenge: Tilt the Cat</h2>
 
+- Now that you know about Euler angles, apply them to that cat picture.
+
 ![](../.gitbook/assets/101.png)
 
 - 畫個有貓的圖面
@@ -245,6 +257,8 @@ extension Int {
 ------
 
 <h2 id="13">Actions</h2>
+
+- Actions are objects that make changes to SceneKit objects. They can move objects, rotate them, grow and shrink them, change their appearance and more. Learn how to use them to put a little spin on the Earth!
 
 ![](../.gitbook/assets/102.png)
 
@@ -271,6 +285,8 @@ extension Int {
 
 <h2 id="14">Beyond Shapes</h2>
 
+- All this time, you’ve been drawing simple shapes using SceneKit geometries. Let’s draw something fancier.
+
 - 讀取太空梭3Ｄ物件，並繞地球進行旋轉
 
 ```swift
@@ -288,4 +304,6 @@ extension Int {
 ------
 
 <h2 id="15">Conclusion</h2>
+
+- You’ve just completed a crash course in SceneKit and written some basic AR app. Let's review where you are and see what comes next.
 

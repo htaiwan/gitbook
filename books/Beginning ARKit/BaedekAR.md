@@ -17,17 +17,21 @@
 
 <h2 id="1">Introduction</h2>
 
-
+- In this section, you’ll be building an AR guidebook — a Baedeker — for paintings and photos in galleries, museums, or any place that displays 2D art.
 
 ------
 
 <h2 id="2">Importing the Reference Images</h2>
+
+- The first step in building BaedekAR is providing it with the set of images that it should detect and recognize. You’ll do that in this step.
 
 ![](../.gitbook/assets/118.png)
 
 ------
 
 <h2 id="3">Detecting Reference Images in the Real World</h2>
+
+- With the reference images imported into the app, it’s time to take the first step and detect those images in the real world, making note of their location and size.
 
 ```swift
   func startARSession() {
@@ -90,6 +94,8 @@
 ------
 
 <h2 id="4">Making Detected Images Tappable</h2>
+
+- Now that the app can detect the reference images in the real world, let’s make it so that the user can tap them to find out more about them.
 
 ```swift
  // Draw the appropriate plane over the image.
@@ -160,6 +166,8 @@
 
 <h2 id="5">Annotating Detected Images With AR text</h2>
 
+- Let’s improve the app by displaying the name of the detected image using AR text. We’ll also make use of billboard constraints to make sure that the text is always facing the user, so that it’s easy to read.
+
 ```swift
   // Create a text node to display the name of an artwork.
   func createArtworkNameNode(withImageName imageName: String) -> SCNNode {
@@ -202,11 +210,13 @@
 
 <h2 id="6">Blocking Images</h2>
 
-
+- What if there were images that we wanted to block from the user?
 
 ------
 
 <h2 id="7">An AR Cure for Clown Phobia</h2>
+
+- Let’s protect the user from scary clown images by blocking them with a soothing picture of Ray.
 
 ```swift
   // Create an opaque plane featuring the soothing image of Ray Wenderlich,

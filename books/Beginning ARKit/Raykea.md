@@ -20,11 +20,13 @@
 
 <h2 id="1">Introduction</h2>
 
-
+- In this part of the course, you’ll build an app similar to one made by everyone’s favorite Swedish semi-disposable furniture store.
 
 ------
 
 <h2 id="2">Two Worlds</h2>
+
+- A look at the “two worlds” theory of the real and virtual world, as well as the important concept of AR anchors.
 
 ![](../.gitbook/assets/108.png)
 
@@ -35,6 +37,8 @@
 ------
 
 <h2 id="3">Basic Plane Detection</h2>
+
+- In this episode, you’ll configure the app to detect horizontal and vertical planar surfaces in the real world, and get it to tell you where they are.
 
 - 建立configuration
 
@@ -67,6 +71,8 @@
 
 <h2 id="4">Plane Detection Theory</h2>
 
+- It often helps to understand the theory behind how something works. Let’s take a look at how ARKit detects horizontal planes (relatively easy) and vertical ones (a little trickier).
+
 ![](../.gitbook/assets/112.png)
 
 ![](../.gitbook/assets/113.png)
@@ -80,6 +86,8 @@
 ------
 
 <h2 id="5">Drawing AR Planes Over Detected Surfaces</h2>
+
+- Now that we now how to detect real-world planes, let’s draw AR planes over them. We’ll draw a grid that says “place furniture here” over detected horizontal surfaces, and a poster of Ray over detected vertical surfaces.
 
 ```swift
   func drawPlaneNode(on node: SCNNode, for planeAnchor: ARPlaneAnchor) {
@@ -115,11 +123,13 @@
 
 <h2 id="6">Back to the Two Worlds</h2>
 
-
+- We return to the “two worlds” theory to talk about the fact that as an AR session goes on, ARKit learns more about the real world, and updates its virtual world to match.
 
 ------
 
 <h2 id="7">Changes to a Previously Detected Surface</h2>
+
+- Now that you know that ARKit revises its internal map of the world as it learns more about it, you’ll take advantage of that learning to revise the planes you draw in AR space.
 
 ```swift
   // This delegate method gets called whenever the node for
@@ -156,11 +166,15 @@
 
 <h2 id="8">Hit Tests</h2>
 
+- In Raykea, the user taps on the “place furniture here” grid on the screen, and that tap specifies where the furniture goes. But how do we translate those taps into a 3-dimensional location for the virtual furniture? With hit tests.
+
 ![](../.gitbook/assets/117.png)
 
 ------
 
 <h2 id="9">Looking at a Detected Surface</h2>
+
+- Let’s use hit tests to see if a detected horizontal surface is onscreen at the moment.
 
 ```swift
   // We can’t check *every* point in the view to see if it contains one of
@@ -193,6 +207,8 @@
 ------
 
 <h2 id="10">Finishing Raykea</h2>
+
+- Putting it all together, you'll take everything we’ve covered and finish building the app.
 
 ```swift
   @objc func handleScreenTap(sender: UITapGestureRecognizer) {
@@ -236,7 +252,7 @@
 
 <h2 id="11">Conclusion</h2>
 
-
+- Congratulations — you’ve written a scaled-down version of one of the most popular AR apps! Let's review where you are and see what comes next.
 
 ------
 
