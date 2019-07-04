@@ -5,7 +5,7 @@
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
   - [Raykea](Beginning ARKit/Raykea.md)
   - [BaedekAR](Beginning ARKit/BaedekAR.md)
-  - Into the Third Dimension
+  - [Into the Third Dimension](Beginning ARKit/Into the Third Dimension.md)
 
 - Machine_Learning_iOS筆記
   - Section I: Machine Learning with Images
