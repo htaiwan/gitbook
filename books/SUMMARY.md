@@ -21,7 +21,7 @@
     - [Chapter 10: YOLO & Semantic Segmentation](Machine_Learning_iOS/Chapter 10 YOLO & Semantic Segmentation.md)
   - Section II: Machine Learning with Sequences
     - [Chapter 11: Data Collection for Sequence Classification](Machine_Learning_iOS/Chapter 11 Data Collection for Sequence Classification.md)
-    - Chapter 12: Training a Model for Sequence Classification
+    - [Chapter 12: Training a Model for Sequence Classification](Machine_Learning_iOS/Chapter 12 Training a Model for Sequence Classification.md)
     - Chapter 13: Sequence Classification
   - Section III: Natural Language Processing
     - Chapter 14: Natural Language Classification
