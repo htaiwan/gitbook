@@ -13,7 +13,6 @@
 ------
 
 <h2 id="1">When should you use it?</h2>
-
 - **The model-view-controller (MVC**) pattern separates objects into three distinct types. 
 
   - MVC is very common in iOS programming, because it's the design pattern that Apple chose to adopt in UIKit
@@ -27,25 +26,18 @@
 
 <h2 id="2">Playground example</h2>
 
-
-
 ------
 
 <h2 id="3">What should you be careful about?</h2>
-
 - use MVC tend to have a lot of logic in the controllers. This can result in view controllers getting very big! There's a rather quaint term for when this happens, called **Massive View Controller.**
-
 
 ------
 
 <h2 id="4">Tutorial project</h2>
 
-
-
 ------
 
 <h2 id="5">Key points</h2>
-
 - MVC separates objects into three categories: models, views and controllers.
 - MVC promotes reusing models and views between controllers. Since controller logic is often very specific, MVC doesn't usually reuse controllers.
 - The controller is responsible for coordinating between the model and view: it sets model values onto the view, and it handles IBAction calls from the view.
