@@ -3,6 +3,7 @@
 - My App
   - [Where My Car Parked](My_App/Where My Car Parked.md)
   - [My Utility Tool](My_App/My Utility Tool.md)
+  - [一個app工程師的AI之路(上)](My_App/一個app工程師的AI之路上.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
