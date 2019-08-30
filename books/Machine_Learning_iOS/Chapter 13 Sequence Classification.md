@@ -20,7 +20,6 @@ In this chapter, you’ll learn how to pass real-time sequential data captured f
 
 <h2 id="1">Classifying human activity in your app</h2>
 
-
 - Step1: imort framework
 
 ```Swift
@@ -62,7 +61,6 @@ let modelInput: MLMultiArray! =
 
 
 <h2 id="2">Overlapping prediction windows</h2>
-
 
 - 為什麼需要Overlapping prediction
   - 有時候activity並不會剛剛好都在一個time區間內被完整的預測，可能剛好跨在不同的time區間
@@ -110,7 +108,6 @@ var isDataAvailable = false
 
 
 <h2 id="3">Buffering motion data</h2>
-
 
 - Step5: 確保modelInput 和dataBuffer都不為空
 
@@ -203,7 +200,6 @@ func bufferMotionData(_ motionData: CMDeviceMotion) {
 
 <h2 id="4">Making predictions with your model</h2>
 
-
 - Step8: Add your gesture recognition model into the app by initializing the following property with the other ML-related properties in GameViewController
 
 ```swift
@@ -272,7 +268,6 @@ static let predictionThreshold = 0.9
 
 
 <h2 id="5">Key points</h2>
-
 
 
 - Use **overlapping prediction windows** to provide faster, more accurate responses.
