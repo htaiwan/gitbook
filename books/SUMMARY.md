@@ -7,6 +7,7 @@
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
+    - [Chapter 2: Your First ARKit App](ARKit_by_Tutorials/Chapter 2 Your First ARKit App.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)`
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
