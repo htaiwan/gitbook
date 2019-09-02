@@ -27,7 +27,6 @@
 
 
 <h2 id="1">Getting started</h2>
-
 先從本章範例的起手專案的架構開始了解。
 
 利用 `//MARK:` 將相關functions進行分類。分成下列幾大項
@@ -47,7 +46,6 @@
 
 
 <h2 id="2">Starting an AR Session</h2>
-
 AR Session是ARKit中最基本也是最重要的元件，用來負責移動的追蹤跟影像的處理。
 
 再開始AR Session之前，必須先建立Configuration告訴告訴AR Session要如何處理device, 虛擬物件跟真實世界連接性。Configuration有兩個不同type。
@@ -93,7 +91,6 @@ AR Session是ARKit中最基本也是最重要的元件，用來負責移動的�
 
 
 <h2 id="3">Controlling an AR Session</h2>
-
 - 暫停：當使用者切換到其他app時，我們需要將AR session進行暫停。
 - 恢復：恢復到剛剛原本暫停的狀態，也就是利用原本相同的confing啟動seesion。
 - 更新：什麼時候會更新config，也許是你想要按下某個按鈕後，可以進行聲音的處理，這時候就要在按鈕按下時，更新session的config。
@@ -104,7 +101,6 @@ AR Session是ARKit中最基本也是最重要的元件，用來負責移動的�
 
 
 <h2 id="4">Updating the status message</h2>
-
 透過`session(_ session: ARSession, cameraDidChangeTrackingState camera: ARCamera)`來隨時更新session的狀態。
 
 ```swift
@@ -122,7 +118,6 @@ AR Session是ARKit中最基本也是最重要的元件，用來負責移動的�
 
 
 <h2 id="5">Handing AR session errors</h2>
-
 
 
 ```Swift
@@ -146,7 +141,6 @@ AR Session是ARKit中最基本也是最重要的元件，用來負責移動的�
 
 
 <h2 id="6">Handling AR session status changes</h2>
-
 
 
 ```Swift
@@ -179,7 +173,6 @@ AR Session是ARKit中最基本也是最重要的元件，用來負責移動的�
 
 
 <h2 id="7">Showing debug options</h2>
-
 
 
 ```Swift

@@ -9,6 +9,7 @@
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
     - [Chapter 2: Your First ARKit App](ARKit_by_Tutorials/Chapter 2 Your First ARKit App.md)
     - [Chapter 3: Basic Session Management](ARKit_by_Tutorials/Chapter 3 Basic Session Management.md)
+    - [Chapter 4: Adding 3D Objects & Textures](ARKit_by_Tutorials/Chapter 4 Adding 3D Objects & Textures.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
