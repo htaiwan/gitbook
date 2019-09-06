@@ -15,6 +15,7 @@
     - [Chapter 6: Adding Physics](ARKit_by_Tutorials/Chapter 6 Adding Physics.md)
   - Section II: Portal Apps
     - [Chapter 7: Building a Portal](ARKit_by_Tutorials/Chapter 7 Building a Portal.md)
+    - [Chapter 8: Adding Objects to Your World](ARKit_by_Tutorials/Chapter 8 Adding Objects to Your World.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
