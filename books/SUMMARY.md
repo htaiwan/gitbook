@@ -18,6 +18,8 @@
     - [番外篇 - 座標系統](ARKit_by_Tutorials/番外篇 - 座標系統.md)
     - [Chapter 8: Adding Objects to Your World](ARKit_by_Tutorials/Chapter 8 Adding Objects to Your World.md)
     - [Chapter 9: Geometry, Textures & Lighting](ARKit_by_Tutorials/Chapter 9 Geometry, Textures & Lighting.md)
+  - Section III: Interactive AR Apps
+    - [Chapter 10: Detecting Placeholders](ARKit_by_Tutorials/Chapter 10 Detecting Placeholders.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
