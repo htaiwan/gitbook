@@ -21,7 +21,7 @@
   - Section III: Interactive AR Apps
     - [Chapter 10: Detecting Placeholders](ARKit_by_Tutorials/Chapter 10 Detecting Placeholders.md)
     - [Chapter 11: Beginning User Interaction](ARKit_by_Tutorials/Chapter 11 Beginning User Interaction.md)
-    - 番外篇 - 轉移矩陣
+    - [Chapter 12: Advanced User Interaction](ARKit_by_Tutorials/Chapter 12 Advanced User Interaction.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
