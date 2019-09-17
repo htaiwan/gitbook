@@ -22,6 +22,7 @@
     - [Chapter 10: Detecting Placeholders](ARKit_by_Tutorials/Chapter 10 Detecting Placeholders.md)
     - [Chapter 11: Beginning User Interaction](ARKit_by_Tutorials/Chapter 11 Beginning User Interaction.md)
     - [Chapter 12: Advanced User Interaction](ARKit_by_Tutorials/Chapter 12 Advanced User Interaction.md)
+    - [Chapter 13: Location Tracking & Beacons](ARKit_by_Tutorials/Chapter 13 Location Tracking & Beacons.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
