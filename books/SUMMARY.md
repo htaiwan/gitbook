@@ -26,6 +26,7 @@
   - Section IV: Face-Based AR
     - [Chapter 14: Getting Started with Face-Based AR](ARKit_by_Tutorials/Chapter 14 Getting Started with Face-Based AR.md)
     - [Chapter 15: Tracking the User’s Face](ARKit_by_Tutorials/Chapter 15 Tracking the User Face.md)
+    - [Chapter 16: Creating Assets for Face-Based AR](ARKit_by_Tutorials/Chapter 16 Creating Assets for Face-Based AR.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
