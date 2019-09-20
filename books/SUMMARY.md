@@ -29,6 +29,8 @@
     - [Chapter 16: Creating Assets for Face-Based AR](ARKit_by_Tutorials/Chapter 16 Creating Assets for Face-Based AR.md)
     - [Chapter 17: Working with Blend Shapes](ARKit_by_Tutorials/Chapter 17 Working with Blend Shapes.md)
     - [Chapter 18: Recording Your ARKit Experience with ReplayKit](ARKit_by_Tutorials/Chapter 18 Recording Your ARKit Experience with ReplayKit.md)
+  - Section V: Game Physics
+    - [Chapter 19: Beginning Game Physics](ARKit_by_Tutorials/Chapter 19 Beginning Game Physics.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
