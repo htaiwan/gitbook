@@ -31,6 +31,7 @@
     - [Chapter 18: Recording Your ARKit Experience with ReplayKit](ARKit_by_Tutorials/Chapter 18 Recording Your ARKit Experience with ReplayKit.md)
   - Section V: Game Physics
     - [Chapter 19: Beginning Game Physics](ARKit_by_Tutorials/Chapter 19 Beginning Game Physics.md)
+    - [Chapter 20: Advanced Game Physics](ARKit_by_Tutorials/Chapter 20 Advanced Game Physics.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
