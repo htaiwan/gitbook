@@ -32,6 +32,8 @@
   - Section V: Game Physics
     - [Chapter 19: Beginning Game Physics](ARKit_by_Tutorials/Chapter 19 Beginning Game Physics.md)
     - [Chapter 20: Advanced Game Physics](ARKit_by_Tutorials/Chapter 20 Advanced Game Physics.md)
+  - Section VI: Persistent & Shared Experience
+    - [Chapter 21: World Tracking & Persistent AR Experiences](ARKit_by_Tutorials/Chapter 21 World Tracking & Persistent AR Experiences.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
