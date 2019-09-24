@@ -37,6 +37,7 @@
     - [Chapter 22: Shared AR Experiences](ARKit_by_Tutorials/Chapter 22 Shared AR Experiences.md)
   - Section VII: Image Tracking, Object Detection & AR Quick Look
     - [Chapter 23: Introducing USDZ & AR Quick Look](ARKit_by_Tutorials/Chapter 23 Introducing USDZ & AR Quick Look.md)
+    - [Chapter 24: Detecting Images & 3D Objects](ARKit_by_Tutorials/Chapter 24 Detecting Images & 3D Objects.md)
 - Beginning ARKit
   - [Hello, Augmented World!](Beginning ARKit/Hello, Augmented World!.md)
   - [Happy AR Painter](Beginning ARKit/Happy AR Painter.md)
