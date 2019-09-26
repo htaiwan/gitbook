@@ -10,6 +10,7 @@
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
+    - [Chapter 2: Swift Standard Library](Data_Structures/Chapter 2 Swift Standard Library.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
