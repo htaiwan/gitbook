@@ -14,6 +14,7 @@
     - [Chapter 3: Complexity](Data_Structures/Chapter 3 Complexity.md)
   - Section II: Elementary Data Structures
     - [Chapter 4: Linked List](Data_Structures/Chapter 4 Linked List.md)
+    - [Chapter 5: Linked List Challenges](Data_Structures/Chapter 5 Linked List Challenges.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
