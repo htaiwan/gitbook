@@ -17,6 +17,7 @@
     - [Chapter 5: Linked List Challenges](Data_Structures/Chapter 5 Linked List Challenges.md)
     - [Chapter 6: Stack Data Structure](Data_Structures/Chapter 6 Stack Data Structure.md)
     - [Chapter 7: Stack Challenges](Data_Structures/Chapter 7 Stack Challenges.md)
+    - [Chapter 8: Queues](Data_Structures/Chapter 8 Queues.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
