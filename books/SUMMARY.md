@@ -22,6 +22,7 @@
   - Section III: Trees
     - [Chapter 10: Trees](Data_Structures/Chapter 10 Trees.md)
     - [Chapter 11: Tree Challenge](Data_Structures/Chapter 11 Tree Challenge.md)
+    - [Chapter 12: Binary Trees](Data_Structures/Chapter 12 Binary Trees.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
