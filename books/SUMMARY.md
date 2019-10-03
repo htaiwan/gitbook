@@ -19,6 +19,8 @@
     - [Chapter 7: Stack Challenges](Data_Structures/Chapter 7 Stack Challenges.md)
     - [Chapter 8: Queues](Data_Structures/Chapter 8 Queues.md)
     - [Chapter 9: Challenges: Queue Data Structure](Data_Structures/Chapter 9 Challenges Queue Data Structure.md)
+  - Section III: Trees
+    - [Chapter 10: Trees](Data_Structures/Chapter 10 Trees.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
