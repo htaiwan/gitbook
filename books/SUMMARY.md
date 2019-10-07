@@ -30,6 +30,7 @@
     - [Chapter 17: AVL Tree Challenges](Data_Structures/Chapter 17 AVL Tree Challenges.md)
     - [Chapter 18: Tries](Data_Structures/Chapter 18 Tries.md)
     - [Chapter 19: Trie Challenges](Data_Structures/Chapter 19 Trie Challenges.md)
+    - [Chapter 20: Binary Search](Data_Structures/Chapter 20 Binary Search.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
