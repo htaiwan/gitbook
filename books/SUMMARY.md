@@ -34,6 +34,7 @@
     - [Chapter 21: Binary Search Challenges](Data_Structures/Chapter 21 Binary Search Challenges.md)
     - [Chapter 22: The Heap Data Structure](Data_Structures/Chapter 22 The Heap Data Structure.md)
     - [Chapter 23: Heap Data Structure Challenges](Data_Structures/Chapter 23 Heap Data Structure Challenges.md)
+    - [Chapter 24: Priority Queue](Data_Structures/Chapter 24 Priority Queue.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
