@@ -32,6 +32,7 @@
     - [Chapter 19: Trie Challenges](Data_Structures/Chapter 19 Trie Challenges.md)
     - [Chapter 20: Binary Search](Data_Structures/Chapter 20 Binary Search.md)
     - [Chapter 21: Binary Search Challenges](Data_Structures/Chapter 21 Binary Search Challenges.md)
+    - [Chapter 22: The Heap Data Structure](Data_Structures/Chapter 22 The Heap Data Structure.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
