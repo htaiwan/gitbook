@@ -36,6 +36,8 @@
     - [Chapter 23: Heap Data Structure Challenges](Data_Structures/Chapter 23 Heap Data Structure Challenges.md)
     - [Chapter 24: Priority Queue](Data_Structures/Chapter 24 Priority Queue.md)
     - [Chapter 25: Priority Queue Challenges](Data_Structures/Chapter 25 Priority Queue Challenges.md)
+  - Section IV: Sorting Algorithms
+    - [Chapter 26: O(n²) Sorting Algorithms](Data_Structures/Chapter 26 On² Sorting Algorithms.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
