@@ -39,6 +39,7 @@
   - Section IV: Sorting Algorithms
     - [Chapter 26: O(n²) Sorting Algorithms](Data_Structures/Chapter 26 On² Sorting Algorithms.md)
     - [Chapter 27: O(n²) Sorting Challenges](Data_Structures/Chapter 27 On² Sorting Challenges.md)
+    - [Chapter 28: Merge Sort](Data_Structures/Chapter 28 Merge Sort.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
