@@ -42,6 +42,7 @@
     - [Chapter 28: Merge Sort](Data_Structures/Chapter 28 Merge Sort.md)
     - [Chapter 29: Merge Sort Challenge](Data_Structures/Chapter 29 Merge Sort Challenge.md)
     - [Chapter 30: Radix Sort](Data_Structures/Chapter 30 Radix Sort.md)
+    - [Chapter 31: Radix Sort Challenge](Data_Structures/Chapter 31 Radix Sort Challenge.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
