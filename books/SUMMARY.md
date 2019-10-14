@@ -45,6 +45,7 @@
     - [Chapter 31: Radix Sort Challenge](Data_Structures/Chapter 31 Radix Sort Challenge.md)
     - [Chapter 32: Heap Sort](Data_Structures/Chapter 32 Heap Sort.md)
     - [Chapter 33: Heap Sort Challenges](Data_Structures/Chapter 33 Heap Sort Challenges.md)
+    - [Chapter 34: Quicksort](Data_Structures/Chapter 34 Quicksort.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
