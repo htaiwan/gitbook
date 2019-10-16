@@ -20,6 +20,8 @@
     - [While Loops](Dart_Fundamentals/While Loops.md)
     - [For Loops](Dart_Fundamentals/For Loops.md)
     - [Enum and Switch](Dart_Fundamentals/Enum and Switch.md)
+  - Section III: Functions
+    - [Function Basics](Dart_Fundamentals/Function Basics.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
