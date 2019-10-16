@@ -11,6 +11,7 @@
   - Section I: Data Types & Operations
     - [Introduction](Dart_Fundamentals/Introduction.md)
     - [DartPad and the Dart SDK](Dart_Fundamentals/DartPad and the Dart SDK.md)
+    - [Variable and Data Types](Dart_Fundamentals/Variable and Data Types.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
