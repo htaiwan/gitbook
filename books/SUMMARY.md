@@ -67,6 +67,7 @@
     - [Chapter 37: Graphs Challenges](Data_Structures/Chapter 37 Graphs Challenges.md)
     - [Chapter 38: Breadth-First Search](Data_Structures/Chapter 38 Breadth-First Search.md)
     - [Chapter 39: Breadth-First Search Challenges](Data_Structures/Chapter 39 Breadth-First Search Challenges.md)
+    - [Chapter 40: Depth-First Search](Data_Structures/Chapter 40 Depth-First Search.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
