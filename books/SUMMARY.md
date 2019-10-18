@@ -70,6 +70,7 @@
     - [Chapter 40: Depth-First Search](Data_Structures/Chapter 40 Depth-First Search.md)
     - [Chapter 41: Depth-First Search Challenges](Data_Structures/Chapter 41 Depth-First Search Challenges.md)
     - [Chapter 42: Dijkstra’s Algorithm](Data_Structures/Chapter 42 Dijkstra_ Algorithm.md)
+    - [Chapter 43: Dijkstra’s Algorithm Challenges](Data_Structures/Chapter 43 Dijkstra Algorithm Challenges.md)
 - ARKit by Tutorials
   - Section I: Getting Started with ARKit
     - [Chapter 1: Hello ARKit!](ARKit_by_Tutorials/Chapter 1 Hello ARKit!.md)
