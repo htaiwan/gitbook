@@ -7,6 +7,8 @@
   - [一個app工程師的AI之路(上)](My_App/一個app工程師的AI之路上.md)
 - 讀書心得
   - [ARKit by Tutorials讀後感](Study/ARKit by Tutorials讀後感.md)
+- Flutter Tutorial
+  - [Chapter 1: Getting Started with Flutter](Flutter_Tutorial/Chapter 1 Write your first Flutter app.md)
 - Programming in Dart: Fundamentals
   - Section I: Data Types & Operations
     - [Introduction](Dart_Fundamentals/Introduction.md)
