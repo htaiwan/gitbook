@@ -11,6 +11,7 @@
   - [Chapter 1: Getting Started with Flutter](Flutter_Tutorial/Chapter 1 Write your first Flutter app.md)
   - [Chapter 2: Flutter Navigation: Getting Started](Flutter_Tutorial/Chapter 2Flutter Navigation Getting Started.md)
   - [Chapter 3: Building Layout](Flutter_Tutorial/Chapter 3 Building Layout.md)
+  - [Chapter 4: Managing state](Flutter_Tutorial/Chapter 4 Managing state.md)
 - Programming in Dart: Fundamentals
   - Section I: Data Types & Operations
     - [Introduction](Dart_Fundamentals/Introduction.md)
