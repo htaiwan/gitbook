@@ -12,6 +12,10 @@
   - [Chapter 2: Flutter Navigation: Getting Started](Flutter_Tutorial/Chapter 2Flutter Navigation Getting Started.md)
   - [Chapter 3: Building Layout](Flutter_Tutorial/Chapter 3 Building Layout.md)
   - [Chapter 4: Managing state](Flutter_Tutorial/Chapter 4 Managing state.md)
+- LeetCode
+  - Easy
+    - Array
+      - [Remove Duplicates from Sorted Array](LeetCode/Remove Duplicates from Sorted Array.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
