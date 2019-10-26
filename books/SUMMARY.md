@@ -17,6 +17,7 @@
     - Array
       - [Remove Duplicates from Sorted Array](LeetCode/Remove Duplicates from Sorted Array.md)
       - [Best Time to Buy and Sell Stock II](LeetCode/Best Time to Buy and Sell Stock II.md)
+      - [Rotate Array](LeetCode/Rotate Array.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
