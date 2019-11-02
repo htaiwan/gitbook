@@ -21,6 +21,7 @@
       - [Contains Duplicate](LeetCode/Contains Duplicate.md)
       - [Single Number](LeetCode/Single Number.md)
       - [Intersection of Two Arrays II](LeetCode/Intersection of Two Arrays II.md)
+      - [Plus One](LeetCode/Plus One.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
