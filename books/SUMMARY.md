@@ -23,6 +23,7 @@
       - [Intersection of Two Arrays II](LeetCode/Intersection of Two Arrays II.md)
       - [Plus One](LeetCode/Plus One.md)
       - [Move Zeroes](LeetCode/Move Zeroes.md)
+      - [Two Sum](LeetCode/Two Sum.md)
       - [Valid Sudoku](LeetCode/Valid Sudoku.md)
 - Data Structures & Algorithms
   - Section I: Introduction
