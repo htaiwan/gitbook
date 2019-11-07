@@ -28,6 +28,7 @@
     - Strings
       - [Reverse String](LeetCode/Reverse String.md)
       - [Reverse Integer](LeetCode/Reverse Integer.md)
+      - [First Unique Character in a String](LeetCode/First Unique Character in a String.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
