@@ -25,6 +25,8 @@
       - [Move Zeroes](LeetCode/Move Zeroes.md)
       - [Two Sum](LeetCode/Two Sum.md)
       - [Valid Sudoku](LeetCode/Valid Sudoku.md)
+    - Strings
+      - [Reverse String](LeetCode/Reverse String.md)
 - Data Structures & Algorithms
   - Section I: Introduction
     - [Chapter 1: Preface](Data_Structures/Chapter 1 Preface.md)
