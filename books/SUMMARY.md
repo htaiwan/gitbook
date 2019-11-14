@@ -12,6 +12,9 @@
   - [Chapter 2: Flutter Navigation: Getting Started](Flutter_Tutorial/Chapter 2Flutter Navigation Getting Started.md)
   - [Chapter 3: Building Layout](Flutter_Tutorial/Chapter 3 Building Layout.md)
   - [Chapter 4: Managing state](Flutter_Tutorial/Chapter 4 Managing state.md)
+- Daily Coding
+  - [1](DailyCoding/1.md)
+  - [2](DailyCoding/2.md)
 - LeetCode
   - Easy
     - Array
