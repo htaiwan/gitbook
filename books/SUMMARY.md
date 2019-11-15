@@ -15,6 +15,8 @@
 - Daily Coding
   - [1](DailyCoding/1.md)
   - [2](DailyCoding/2.md)
+  - [3](DailyCoding/3.md)
+  - [4](DailyCoding/4.md)
 - LeetCode
   - Easy
     - Array
