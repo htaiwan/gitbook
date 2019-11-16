@@ -13,10 +13,12 @@
   - [Chapter 3: Building Layout](Flutter_Tutorial/Chapter 3 Building Layout.md)
   - [Chapter 4: Managing state](Flutter_Tutorial/Chapter 4 Managing state.md)
 - Daily Coding
-  - [1](DailyCoding/1.md)
-  - [2](DailyCoding/2.md)
-  - [3](DailyCoding/3.md)
-  - [4](DailyCoding/4.md)
+  - [1. two sum](DailyCoding/1.md)
+  - [2. Contiguous Subarray with Maximum Sum](DailyCoding/2.md)
+  - [3. Merge K Sorted Linked Lists](DailyCoding/3.md)
+  - [4. Array products](DailyCoding/4.md)
+  - [5. Serialize and Deserialize Binary Tree](DailyCoding/5.md)
+  - [6. Create a balanced binary search tree](DailyCoding/6.md)
 - LeetCode
   - Easy
     - Array
