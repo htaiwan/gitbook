@@ -19,6 +19,8 @@
   - [4. Array products](DailyCoding/4.md)
   - [5. Serialize and Deserialize Binary Tree](DailyCoding/5.md)
   - [6. Create a balanced binary search tree](DailyCoding/6.md)
+  - [7. Trapping Rain Water](DailyCoding/7.md)
+  - [8. Find Missing positive integer](DailyCoding/8.md)
 - LeetCode
   - Easy
     - Array
