@@ -21,6 +21,8 @@
   - [6. Create a balanced binary search tree](DailyCoding/6.md)
   - [7. Trapping Rain Water](DailyCoding/7.md)
   - [8. Find Missing positive integer](DailyCoding/8.md)
+  - [9. Constructs a pair](DailyCoding/9.md)
+  - [10. Buddy Strings](DailyCoding/10.md)
 - LeetCode
   - Easy
     - Array
