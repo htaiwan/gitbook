@@ -23,6 +23,9 @@
   - [8. Find Missing positive integer](DailyCoding/8.md)
   - [9. Constructs a pair](DailyCoding/9.md)
   - [10. Buddy Strings](DailyCoding/10.md)
+  - [11. XOR linked list](DailyCoding/11.md)
+  - [12. Deepest Node in a Binary Tree](DailyCoding/12.md)
+  
 - LeetCode
   - Easy
     - Array
